@@ -1,0 +1,4 @@
+EXPORTS
+WriteCreateFile @1
+MyReadFromFile @2
+ 

@@ -1,0 +1,8 @@
+﻿  Assembling main.asm...
+main.asm(99): warning A6001: no return from procedure
+main.asm(99): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(99): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(99): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library D:\MTextEditor\MyDll\Debug\Project.lib and object D:\MTextEditor\MyDll\Debug\Project.exp
+  Project.vcxproj -> D:\MTextEditor\MyDll\Debug\Project.dll
+  Project.vcxproj -> D:\MTextEditor\MyDll\Debug\Project.pdb (Full PDB)
